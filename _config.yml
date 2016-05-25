@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+gems: [jekyll-paginate, jekyll-gist, pygments.rb]
 
 # Setup
 title:            Abelity
